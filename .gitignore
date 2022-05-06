@@ -1,0 +1,5 @@
+# Word-Files
+*.docx
+
+# The Graph of dependencies of some yang modules
+*.graphml
